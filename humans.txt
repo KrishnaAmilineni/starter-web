@@ -9,6 +9,8 @@
 
 # THANKS
 
+ thanks 
+
     <name>
 
 # TECHNOLOGY COLOPHON
