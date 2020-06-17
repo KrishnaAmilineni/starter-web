@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ## Purpose
 
-janfkmqejfnjjqmenjhqnekgmjqnergeqnrjgnmqkrnejnqjnjnqjhnjn
+janfkmqejfnjjqmenjhqnekgmjqnergeqnrjgnmqkrnejnqjnjnqjhnjn, more chnages to feature branch too
 
 ## How to contribute
 
